@@ -1,8 +1,10 @@
 html {
     background: $white;
+    height: 100%;
 }
 body {
     margin: 0.75em;
+    min-height: 100%;
 		background: $black;
 		color: $white;
 		font-family: helvetica;
