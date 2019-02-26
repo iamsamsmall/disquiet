@@ -1,0 +1,23 @@
+// Colours
+
+$black: #2F2F2F;
+$white: #F2F1ED;
+$primary: #f3c933;
+$primary-light: #ffd74a;
+
+//Typography
+
+@font-face {
+  font-family: 'Maria';
+  src: url('../assets/Maria.eot'); /* IE9 Compat Modes */
+  src: url('../assets/Maria.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/Maria.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/Maria.woff') format('woff'), /* Pretty Modern Browsers */
+}
+
+$display: "Maria", "Helvetica Neue", Helvetica, sans-serif;
+$body: "Helvetica Neue", Helvetica, sans-serif;
+$sm: 1.15em;
+
+$normal: normal;
+$bold: bold;
