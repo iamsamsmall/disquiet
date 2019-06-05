@@ -17,8 +17,9 @@ title: Disquiet
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Disquiet is a newsletter of curated links to content on art, mental health, gender, philosophy and more.
-baseurl: "/disquiet" # the subpath of your site, e.g. /blog
-url: "http://iamsamsmall.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://disquiet.co" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: disquiet.co
 twitter_username:
 github_username:  iamsamsmall
 
